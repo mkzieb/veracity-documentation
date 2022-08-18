@@ -6,7 +6,6 @@ description: This page explains using the API integrations tab in Data Workbench
 
 You can integrate APIs with Data Workbench. To do so, you need a service account.
 
-
 ## Add a new service account
 To add a new account:
 1. In your workspace, select the **API Integrations** tab. 

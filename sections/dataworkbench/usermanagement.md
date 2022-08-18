@@ -37,3 +37,4 @@ To remove a user from the workspace:
 2. Find the user in the list.
 3. In the row with the user's name, select ***⋯*** (three dots). It will open a dropdown.
 4. From the dropdown, select **Delete**.
+
